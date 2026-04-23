@@ -2,3 +2,8 @@
 venv/
 __pycache__/
 *.pyc
+.idea/
+__pycache__/
+app/__pycache__/
+sensor_data.db
+*.sqlite3
